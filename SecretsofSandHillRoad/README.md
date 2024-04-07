@@ -1,4 +1,4 @@
-# Liqiang's Note on The Secrets of Sand Hill Road
+# Liqiang's Notes on `The Secrets of Sand Hill Road`
 
 <p align="center">
   <img src="./imgs/SecretesofSandHullRoad_small.jpg" />
