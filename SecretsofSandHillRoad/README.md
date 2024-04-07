@@ -16,6 +16,6 @@
 
     * [Chapter 01 to 06](./chapter_1_6_Introduction.md)
 
-    * [Chapter 07 to 10](./chapter_7_10_DirectContactwithVCs)
+    * [Chapter 07 to 10](./chapter_7_10_DirectContactwithVCs.md)
 
     * [Chapter 11 to 15](./chapter_11_15_Examples.md)
