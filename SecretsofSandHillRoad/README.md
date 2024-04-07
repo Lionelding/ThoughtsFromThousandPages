@@ -5,10 +5,11 @@
 </p>
 
 
-1. Liqiang's One sentence to summarize the book:
+1. One sentence to summarize the book
+
     A through walk-through of how to raise money from VC
 
-1. Liqiang's Review
+1. Review
     4 out of 5
 
 1. Liqiang's Notes
